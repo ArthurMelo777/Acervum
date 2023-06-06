@@ -60,11 +60,11 @@ O sistema permitirá login e cadastro, além do cadastro de livros pessoais e co
 
 | Ator | Nome | Código | Prioridade |
 | --- | --- | --- | --- |
-| Visitante | Realizar cadastro | 000 | Alta |
-| Visitante | Realizar login | 001 | Alta |
-| Leitor | Editar perfil | 002 | Média |
-| Leitor | Excluir perfil | 003 | Média |
-| Leitor | Cadastrar livro | 004 | Alta |
-| Leitor | Realizar empréstimo | 005 | Alta |
-| Leitor | Realizar devolução de livro | 006 | Alta |
-| Leitor | Pesquisar livro | 007 | Alta |
+| Visitante | Realizar cadastro | 001 | Alta |
+| Visitante | Realizar login | 002 | Alta |
+| Leitor | Editar perfil | 003 | Média |
+| Leitor | Excluir perfil | 004 | Média |
+| Leitor | Cadastrar livro | 005 | Alta |
+| Leitor | Realizar empréstimo | 006 | Alta |
+| Leitor | Realizar devolução | 007 | Alta |
+| Leitor | Pesquisar livro | 008 | Alta |
