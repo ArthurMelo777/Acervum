@@ -2,6 +2,6 @@
 
 ## Diagrama de Classes de Domínio
 
-<img src="dcd.png"/>
+<img src="AcervumDCD.png"/>
 
 Recomendação de aplicação para fazer o DCU: Astah
